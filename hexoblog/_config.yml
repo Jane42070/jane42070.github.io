@@ -115,7 +115,8 @@ filed: post
 # 人物挂件
 live2d:
   model:
-    use: hijiki
+    use: wanko
+    # use: hijiki
     scale: 1.5
     hHeadPos: 0.5
     vHeadPos: 0.618
@@ -124,8 +125,8 @@ live2d:
     width: 150
     height: 300
     position: right
-    hOffset: 0
-    vOffset: 20
+    hOffset: 40
+    vOffset: 0
   mobile:
     show: true
     scale: 0.5
