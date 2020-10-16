@@ -1,6 +1,12 @@
 /* Here is your custom css styles. */
 
 /* hexo-filter-github-emojis */
+*{
+    cursor: url("/medias/cursor1.ico"),auto!important;
+}
+:active{
+    cursor: url("/medias/cursor2.ico"),auto!important;
+}
 .github-emoji{
     height: 2em;
     width: 2em;
