@@ -104,7 +104,8 @@ theme: hexo-theme-matery
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: git@github.com:Jane42070/jane42070.github.io.git
+  repo: git@gitee.com:jane42070/jane42070.github.io.git
+  # git@github.com:Jane42070/jane42070.github.io.git
   branch: master
 
 # Plugins
